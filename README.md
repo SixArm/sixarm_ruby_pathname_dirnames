@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Pathname#dirnames method to iterate on parent directories
 
-* Docs: <http://sixarm.com/sixarm_ruby_pathname_dirnames/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_pathname_dirnames/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_pathname_dirnames>
 * Repo: <http://github.com/sixarm/sixarm_ruby_pathname_dirnames>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
