@@ -62,8 +62,3 @@ To find the first occurance of a file named "my.txt" in a path or its parents:
      puts p.dirnames.find{|dirname| (dirname + basename).exist?}
 
 Note that the "*" at the end of the pathname is to give dirname something to chop off; the "*" is being used as chaff, not as a file matcher nor string matches.
-
-
-## Changes
-
-* 2012-03-22 1.0.0 Created
