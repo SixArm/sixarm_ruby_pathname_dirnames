@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'pathname'
+require "pathname"
 
 
 class Pathname
