@@ -1,4 +1,4 @@
-# Ruby » <br> Pathname#dirnames method to iterate on parent directories
+SixArm.com → Ruby → <br> Pathname#dirnames method to iterate on parent directories
 
 * Doc: <http://sixarm.com/sixarm_ruby_pathname_dirnames/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_pathname_dirnames>
