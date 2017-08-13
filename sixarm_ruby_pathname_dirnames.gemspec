@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_pathname_dirnames"
-  s.summary           = "SixArm.com » Ruby » Pathname#dirnames method"
+  s.summary           = "SixArm.com → Ruby → Pathname#dirnames method"
   s.description       = "Pathname#dirnames method to iterate on parent directories"
   s.version           = "1.0.1"
 
